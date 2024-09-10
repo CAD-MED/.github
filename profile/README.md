@@ -8,7 +8,7 @@
 - [Projeto extensão CAD MED 2024](https://github.com/CAD-MED/Projeto-de-extensao-CAD-MED)
 
 
-O **Defesa Civil App** é uma aplicação móvel desenvolvida em Flutter, projetada para facilitar e agilizar o processo de registro e gerenciamento de pessoas atendidas nos postos da Defesa Civil. Com foco em eficiência e segurança, o aplicativo oferece um registro digital confiável dos cidadãos, permitindo um acompanhamento contínuo e atualizado de todas as atividades realizadas.
+O **CADMED App** é uma aplicação móvel desenvolvida em Flutter, projetada para facilitar e agilizar o processo de registro e gerenciamento de pessoas atendidas nos postos da Defesa Civil. Com foco em eficiência e segurança, o aplicativo oferece um registro digital confiável dos cidadãos, permitindo um acompanhamento contínuo e atualizado de todas as atividades realizadas.
 
 ## 📋 Funcionalidades
 
